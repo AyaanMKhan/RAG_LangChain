@@ -1,0 +1,5 @@
+rd2md
+langchain
+pyreadr
+pandas
+tabulate
