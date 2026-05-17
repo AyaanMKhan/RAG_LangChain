@@ -1,5 +1,12 @@
 rd2md
-langchain
 pyreadr
 pandas
 tabulate
+python-dotenv
+langchain==0.3.27
+langchain-core==0.3.74
+langchain-google-genai==2.0.10
+langchain-text-splitters==0.3.9
+langchain[openai]
+langchain-community>=0.3.0,<0.4
+
